@@ -1,0 +1,5 @@
+library subdir
+library struct1
+library struct2
+
+mainstruct
